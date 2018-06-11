@@ -12,3 +12,9 @@
  *
  *= require_self
  */
+ .error {
+  color: red;
+ }
+.cool-background {
+  background-color: grey;
+}
